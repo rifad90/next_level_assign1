@@ -1,0 +1,2 @@
+Type any accpet all of types, function and variables etc. There is no restrictions. It may cause system crash.
+Where type unknown is tyoe-safe version of any. You can't access unknown until type checked.
